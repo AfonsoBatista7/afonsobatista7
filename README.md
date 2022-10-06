@@ -4,7 +4,6 @@
 
 <div align="center">
   <a href="https://github.com/AfonsoBatista7">
-  <img align="center" height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoBatista7&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   
 <div style="display: inline-block"><br>
