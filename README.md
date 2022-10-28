@@ -6,16 +6,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afonso-batista-6868a6203/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afonsobatista13@gmail.com)
   
-<div style="display: inline-block" target="_blank"><br>
+<div style="display: inline-block" target="_blank" rel="noopener noreferrer"><br>
   <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170">
     <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  </a><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  </a><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"  rel="noopener noreferrer">
     <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  </a><a href="https://docs.oracle.com/en/java/javase/19/docs/api/index.html" target="_blank">
+  </a><a href="https://docs.oracle.com/en/java/javase/19/docs/api/index.html" target="_blank"  rel="noopener noreferrer">
     <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  </a><a href="https://devdocs.io/javascript/" target="_blank">
+  </a><a href="https://devdocs.io/javascript/" target="_blank"  rel="noopener noreferrer">
     <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  </a><a href="https://beta.reactjs.org/apis/react" target="_blank">
+  </a><a href="https://beta.reactjs.org/apis/react" target="_blank"  rel="noopener noreferrer">
     <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg">
   </a>
 </div>
