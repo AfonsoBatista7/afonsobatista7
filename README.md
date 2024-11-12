@@ -16,7 +16,7 @@
   </a><a href="https://react.dev/learn" >
     <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg">
   </a>
-  <a href="[https://go.dev/learn](https://go.dev/doc/)" >
+  </a><a href="https://go.dev/doc/" >
     <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg">
   </a>
 </div>
